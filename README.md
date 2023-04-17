@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms | 2nd Semester 2020-2021 | Course Project
+Project Topic: matrix multiplication - implementing the two algorithms Soloway-Strassen and naïve matrix multiplication algorithms
